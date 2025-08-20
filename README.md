@@ -77,5 +77,3 @@ This dashboard provides a **comprehensive analysis of FNP’s sales performance*
 This dashboard provides actionable insights into **customers, products, geographies, categories, and seasonal patterns**. It can guide **strategic decision-making in marketing, product portfolio optimization, and regional expansion** to maximize both **sales and profitability**.
 
 ---
-
-Would you like me to also prepare a **short LinkedIn-style post (engaging & concise)** so you can showcase this project publicly, just like we did for the previous dashboards?
